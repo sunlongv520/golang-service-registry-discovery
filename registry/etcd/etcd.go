@@ -10,7 +10,6 @@ import (
 	"time"
 
 	"github.com/coreos/etcd/clientv3"
-	"github.com/ibinarytree/koala/registry"
 )
 
 const (

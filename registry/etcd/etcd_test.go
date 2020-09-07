@@ -5,8 +5,6 @@ import (
 	"fmt"
 	"testing"
 	"time"
-
-	"github.com/ibinarytree/koala/registry"
 )
 
 func TestRegister(t *testing.T) {
